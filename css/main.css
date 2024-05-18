@@ -1,0 +1,21 @@
+.quote {
+    text-align: center;
+}
+.quote h1 {
+font-size: 80px;
+    font-family: Impact;
+    /* font-weight: bold; */
+}
+ .quote button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+.quote p {
+    font-size: 35px;
+}
+
+.quote button:hover {
+    background-color: green;
+}
